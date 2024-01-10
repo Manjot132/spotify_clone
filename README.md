@@ -1,2 +1,2 @@
 # spotify_clone
-Author:Manjot Singh
+<b>Author:Manjot Singh</b>
